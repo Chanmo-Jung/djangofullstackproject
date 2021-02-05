@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8af0af88.chunk.css",
+    "main.js": "/static/js/main.f64f7708.chunk.js",
+    "main.js.map": "/static/js/main.f64f7708.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c60b7f5c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c60b7f5c.js.map",
+    "static/css/2.9d61f219.chunk.css": "/static/css/2.9d61f219.chunk.css",
+    "static/js/2.b946e497.chunk.js": "/static/js/2.b946e497.chunk.js",
+    "static/js/2.b946e497.chunk.js.map": "/static/js/2.b946e497.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9d61f219.chunk.css.map": "/static/css/2.9d61f219.chunk.css.map",
+    "static/css/main.8af0af88.chunk.css.map": "/static/css/main.8af0af88.chunk.css.map",
+    "static/js/2.b946e497.chunk.js.LICENSE.txt": "/static/js/2.b946e497.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/react-summernote.css": "/static/media/summernote.bd0d8be1.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c60b7f5c.js",
+    "static/css/2.9d61f219.chunk.css",
+    "static/js/2.b946e497.chunk.js",
+    "static/css/main.8af0af88.chunk.css",
+    "static/js/main.f64f7708.chunk.js"
+  ]
+}
